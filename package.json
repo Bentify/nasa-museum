@@ -1,0 +1,24 @@
+{
+  "name": "nasa-museum",
+  "version": "1.0.0",
+  "description": "An interactive exhibit of 3D models from NASA",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-static-gzip": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archilogic-com/nasa-museum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archilogic-com/nasa-museum/issues"
+  },
+  "homepage": "https://github.com/archilogic-com/nasa-museum#readme"
+}
